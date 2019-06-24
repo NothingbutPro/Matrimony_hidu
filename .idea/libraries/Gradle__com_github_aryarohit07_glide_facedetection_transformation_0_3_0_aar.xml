@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.aryarohit07:glide-facedetection-transformation:0.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a49feedddfb23f48f14d6fde834d39a7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a49feedddfb23f48f14d6fde834d39a7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.aryarohit07/glide-facedetection-transformation/0.3.0/f626ad22eed0cd9ea48b324f57a871f19f8cbab6/glide-facedetection-transformation-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

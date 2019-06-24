@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767404076355",
+    "firebase_url": "https://hindumatrimony2019.firebaseio.com",
+    "project_id": "hindumatrimony2019",
+    "storage_bucket": "hindumatrimony2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767404076355:android:3980e01ee1fb969c",
+        "android_client_info": {
+          "package_name": "ics.hindu.matrimony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767404076355-7e7772p4gi6hp1ftuj06rlfl0nb1h7lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUW8dMmMge3wt_LRoEsOuNYeN53Ne6hkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767404076355-7e7772p4gi6hp1ftuj06rlfl0nb1h7lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

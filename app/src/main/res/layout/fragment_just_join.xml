@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="ics.hindu.matrimony.fragment.JustJoinFrag">
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/rvMatch"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+
+
+    <include
+        android:id="@+id/just"
+        layout="@layout/adapter_just_join"
+        >
+    </include>
+
+    <!--<include-->
+        <!--android:layout_below="@id/just"-->
+        <!--layout="@layout/adapter_matches"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_width="match_parent">-->
+    <!--</include>-->
+
+</RelativeLayout>
